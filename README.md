@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=SAIRAM%20KUNIBILLI&fontSize=42&fontColor=00f0ff&animation=twinkling&fontAlignY=40" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,10,20,30,40&height=220&section=header&text=KUNIBILLI%20SAIRAM&fontSize=42&fontColor=00f0ff&animation=twinkling&fontAlignY=40" width="100%" />
 
   <h2 align="center">⚡ Software Engineer | AI Developer | Data Analyst ⚡</h2>
 
