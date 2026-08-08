@@ -218,7 +218,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 <div align="center">
   <p>
-    <b>Email:</b> <a href="mailto:sairam.kunibilli@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
+    <b>Email:</b> <a href="mailto:kunibillisairam05@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
     <b>GitHub:</b> <a href="https://github.com/kunibillisairam">github.com/kunibillisairam</a> &nbsp;|&nbsp; 
     <b>Location:</b> Chennai, Tamil Nadu, India
   </p>
