@@ -1,46 +1,33 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-KUNIBILLI%20SAIRAM-0d1117?style=for-the-badge&labelColor=0d1117&color=6366f1" alt="Kunibilli Sairam" height="60"/>
+  <h1>KUNIBILLI SAIRAM</h1>
+  <h3>Software Engineer | AI Developer | Data Analyst</h3>
+  
+  <p><i>Building Predictive Machine Learning Systems, Data Analytics Pipelines & Responsive Web Applications</i></p>
 
-### Software Engineer&nbsp;|&nbsp;AI Developer&nbsp;|&nbsp;Data Analyst
-
-*Building Predictive Machine Learning Systems, Data Analytics Pipelines & Responsive Web Applications*
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunibillisairam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunibillisairam/)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.kunibilli@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
+  <p>
+    <a href="https://github.com/kunibillisairam">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sairam.kunibilli@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/-%20-0d1117?style=flat-square" height="2" width="900"/>
-</div>
+### 👤 ABOUT ME
 
-## 👤&nbsp; About Me
+Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused on developing end-to-end data analytics solutions, predictive machine learning models, and scalable full-stack web applications with modern UI architecture.
 
-<table>
-<tr>
-<td>
+---
 
-🎓&nbsp; **B.E. Computer Science and Engineering**
-📊&nbsp; **Data Science & Machine Learning** — predictive modeling, EDA, classification
-🌐&nbsp; **Web Development** — full-stack apps with modern UI architecture
-📈&nbsp; **Power BI / Data Analytics** — dashboards, KPI tracking, SQL
-🚧&nbsp; Currently building real-world, end-to-end software projects
-🤝&nbsp; Open to **Software Engineering, Data Science & AI/ML** opportunities
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🛠️&nbsp; Technical Skills
+### 💻 TECHNICAL SKILLS
 
 <table>
 <tr><td><b>Programming</b></td><td>
@@ -111,101 +98,180 @@
 
 <br>
 
-## 🚀&nbsp; Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/📊_Customer_Retention-ML_%2F_Predictive_Analytics-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Customer Retention Prediction System</b>
-<br>
-<sub>ML / Predictive Analytics</sub>
-<br><br>
-Classification model predicting customer churn drivers and subscription cancellation probability, with full model evaluation.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Random_Forest-6366F1?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/Subscription-Cancellation-Prediction-System"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://subscription-cancellation-predictio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F0FFF?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-<td width="50%">
-<img src="https://img.shields.io/badge/🍔_Food_Express-Full_Stack_Web_App-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Food Express</b>
-<br>
-<sub>Full-Stack Web Application</sub>
-<br><br>
-Responsive restaurant ordering platform with dynamic cart state, menu filtering, and a full checkout flow.
-<br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/food-Express"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://restarunt-foodexpress.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F0FFF?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/📈_Superstore_Analytics-Data_Analytics_%2F_Power_BI-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Global Superstore Sales & Business Analytics</b>
-<br>
-<sub>Data Analytics / Power BI</sub>
-<br><br>
-End-to-end retail transaction analysis: Python data cleaning paired with an interactive Power BI dashboard for regional KPI tracking.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-<td width="50%">
-<img src="https://img.shields.io/badge/🏥_Patient_Satisfaction-ML_%2F_Healthcare-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Patient Satisfaction Prediction</b>
-<br>
-<sub>Machine Learning / Healthcare Analytics</sub>
-<br><br>
-Predictive model evaluating clinical service factors to forecast patient feedback and flag quality benchmarks.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/Patient-satisfaction-prediction"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://patient-satisfaction-prediction.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F0FFF?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://img.shields.io/badge/💰_Spends_%26_Earns-Finance_Tracker-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Spends & Earns</b>
-<br>
-<sub>Personal Finance Web Application</sub>
-<br><br>
-Finance tracker for monitoring income streams, categorizing daily expenses, and tracking monthly budgets.
-<br><br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/spends-and-earns"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-<a href="https://spends-and-earns.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0F0FFF?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-<td width="50%">
-<img src="https://img.shields.io/badge/🤖_Student_Career_AI-Career_Guidance-0d1117?style=for-the-badge&labelColor=1a1a2e&color=6366f1" width="100%"/>
-<br><br>
-<b>Student Career Growth Platform</b>
-<br>
-<sub>Career Guidance / AI Application</sub>
-<br><br>
-AI mentorship app offering career path recommendations, skill evaluation, and tailored growth roadmaps.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square"/>
-<br><br>
-<a href="https://github.com/kunibillisairam/career-AI"><img src="https://img.shields.io/badge/💻_GitHub-0d1117?style=for-the-badge&labelColor=0d1117"/></a>
-</td>
-</tr>
+
+---
+
+### 🚀 FEATURED PROJECTS
+
+<table width="100%">
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://subscription-cancellation-predictio.vercel.app">
+        <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Customer Retention" />
+      </a>
+      <h4>📊 Customer Retention Prediction System</h4>
+      <p><b>ML / Predictive Analytics</b></p>
+      <p>Machine learning classification model predicting customer churn factors and subscription cancellation probabilities with evaluation metrics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://subscription-cancellation-predictio.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
+        </a> &nbsp;
+        <a href="https://github.com/kunibillisairam/Subscription-Cancellation-Prediction-System" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://restarunt-foodexpress.vercel.app">
+        <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Food Express" />
+      </a>
+      <h4>🍔 Food Express</h4>
+      <p><b>Full-Stack Web Application</b></p>
+      <p>Responsive food ordering platform with dynamic cart state management, menu filters, checkout interface, and fast page rendering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://restarunt-foodexpress.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
+        </a> &nbsp;
+        <a href="https://github.com/kunibillisairam/food-Express" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis">
+        <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Superstore Analytics" />
+      </a>
+      <h4>📈 Global Superstore Sales Analytics</h4>
+      <p><b>Data Analytics / Power BI</b></p>
+      <p>End-to-end retail transaction analysis using Python for data cleaning and interactive Power BI dashboards for regional KPI tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://patient-satisfaction-prediction.vercel.app">
+        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Patient Satisfaction" />
+      </a>
+      <h4>🏥 Patient Satisfaction Predictive Analytics</h4>
+      <p><b>Machine Learning / Web</b></p>
+      <p>Predictive healthcare analytics model evaluating clinical service factors to forecast patient feedback and highlight quality benchmarks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://patient-satisfaction-prediction.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
+        </a> &nbsp;
+        <a href="https://github.com/kunibillisairam/Patient-satisfaction-prediction" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 3 -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://spends-and-earns.vercel.app">
+        <img src="https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Finance Tracker" />
+      </a>
+      <h4>💰 Spends & Earns</h4>
+      <p><b>Finance Tracker</b></p>
+      <p>Personal financial management application for monitoring income streams, categorizing daily expenditures, and tracking monthly budgets.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://spends-and-earns.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
+        </a> &nbsp;
+        <a href="https://github.com/kunibillisairam/spends-and-earns" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://github.com/kunibillisairam/career-AI">
+        <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Student Career AI" />
+      </a>
+      <h4>🤖 Student Career Growth AI Mentor</h4>
+      <p><b>AI / Career Platform</b></p>
+      <p>AI mentorship application providing student career path recommendations, skill evaluation, and tailored growth learning roadmaps.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Models-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://github.com/kunibillisairam/career-AI" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<br>
+---
 
+### 🎓 ACADEMIC & PROFESSIONAL CREDENTIALS
+
+<table width="100%">
+  <tr>
+    <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
+      <b>Bachelor of Engineering (B.E) — Computer Science and Engineering</b><br/>
+      <small>Chennai, Tamil Nadu, India • Data Structures, Machine Learning & AI tools and Web Engineering</small>
+    </td>
+  </tr>
+  <tr><td height="8"></td></tr>
+  <tr>
+    <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
+      <b>Data Science & Machine Learning </b><br/>
+      <small>Hands-on modeling experience in classification, predictive regression algorithms, and EDA pipelines</small>
+    </td>
+  </tr>
+  <tr><td height="8"></td></tr>
+  <tr>
+    <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
+      <b>Power BI Data Analytics Certification</b><br/>
+      <small>Designing relational data models, DAX metric calculations, and interactive executive reporting dashboards</small>
+    </td>
+  </tr>
+</table>
+
+---
 ## 🎓&nbsp; Achievements & Certifications
 
 <table>
@@ -251,6 +317,7 @@ AI mentorship app offering career path recommendations, skill evaluation, and ta
 
 <div align="center">
 
+
 ## 🤝&nbsp; Let's Build Something
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunibillisairam)
@@ -260,4 +327,14 @@ AI mentorship app offering career path recommendations, skill evaluation, and ta
 
 <sub>Chennai, Tamil Nadu, India</sub>
 
+</div>
+
+### 📬 CONTACT & CONNECT
+
+<div align="center">
+  <p>
+    <b>Email:</b> <a href="mailto:kunibillisairam05@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
+    <b>GitHub:</b> <a href="https://github.com/kunibillisairam">github.com/kunibillisairam</a> &nbsp;|&nbsp; 
+    <b>Location:</b> Chennai, Tamil Nadu, India
+  </p>
 </div>
