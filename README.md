@@ -192,13 +192,13 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
       <b>Bachelor of Engineering (B.E) — Computer Science and Engineering</b><br/>
-      <small>Chennai, Tamil Nadu, India • Specialization in Data Structures, Machine Learning & Web Engineering</small>
+      <small>Chennai, Tamil Nadu, India • Data Structures, Machine Learning & AI tools and Web Engineering</small>
     </td>
   </tr>
   <tr><td height="8"></td></tr>
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
-      <b>Data Science & Machine Learning Specialization</b><br/>
+      <b>Data Science & Machine Learning </b><br/>
       <small>Hands-on modeling experience in classification, predictive regression algorithms, and EDA pipelines</small>
     </td>
   </tr>
@@ -213,15 +213,6 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ---
 
-### 📊 GITHUB STATISTICS
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kunibillisairam&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunibillisairam&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="48%" alt="Top Languages" />
-</div>
-
----
 
 ### 📬 CONTACT & CONNECT
 
