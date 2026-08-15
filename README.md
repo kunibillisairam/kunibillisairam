@@ -303,10 +303,14 @@ Computer Science and Engineering (B.E) student based in Chennai, India. Focused 
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kunibillisairam&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunibillisairam&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&text_color=c9d1d9" width="48%" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunibillisairam&theme=dark&hide_border=false&border_color=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=8b5cf6" width="97%" alt="Streak Stats" />
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kunibillisairam&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kunibillisairam&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <br/>
+  
+  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kunibillisairam&theme=dark&hide_border=false&border_color=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=8b5cf6)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
