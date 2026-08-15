@@ -9,7 +9,7 @@
     <a href="https://github.com/kunibillisairam">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://linkedin.com">
+    <a href="https://www.linkedin.com/in/kunibillisairam/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:sairam.kunibilli@gmail.com">
@@ -29,8 +29,8 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ### 💻 TECHNICAL SKILLS
 
-<table>
-<tr><td><b>Programming</b></td><td>
+<table width="100%">
+<tr><td width="25%"><b>Programming</b></td><td>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -43,7 +43,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-6366F1?style=flat-square)
 
@@ -79,7 +79,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td></tr>
-<tr><td><b>Tools</b></td><td>
+<tr><td><b>Tools & Cloud</b></td><td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -88,7 +88,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td></tr>
-<tr><td><b>Other</b></td><td>
+<tr><td><b>Other Skills</b></td><td>
 
 ![Unity](https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -98,8 +98,6 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 <br>
 
-
-
 ---
 
 ### 🚀 FEATURED PROJECTS
@@ -108,7 +106,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://subscription-cancellation-predictio.vercel.app">
+      <a href="https://subscription-cancellation-predictio.vercel.app" target="_blank">
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Customer Retention" />
       </a>
       <h4>📊 Customer Retention Prediction System</h4>
@@ -130,7 +128,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </p>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://restarunt-foodexpress.vercel.app">
+      <a href="https://food-express-sandy.vercel.app/" target="_blank">
         <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Food Express" />
       </a>
       <h4>🍔 Food Express</h4>
@@ -156,7 +154,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis">
+      <a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis" target="_blank">
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Superstore Analytics" />
       </a>
       <h4>📈 Global Superstore Sales Analytics</h4>
@@ -175,7 +173,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </p>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://patient-satisfaction-prediction.vercel.app">
+      <a href="https://patient-satisfaction-prediction.vercel.app" target="_blank">
         <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Patient Satisfaction" />
       </a>
       <h4>🏥 Patient Satisfaction Predictive Analytics</h4>
@@ -201,7 +199,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://spends-and-earns.vercel.app">
+      <a href="https://spends-and-earns.vercel.app" target="_blank">
         <img src="https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Finance Tracker" />
       </a>
       <h4>💰 Spends & Earns</h4>
@@ -223,7 +221,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </p>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://github.com/kunibillisairam/career-AI">
+      <a href="https://code-gravity.vercel.app/" target="_blank">
         <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Student Career AI" />
       </a>
       <h4>🤖 Student Career Growth AI Mentor</h4>
@@ -236,6 +234,9 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </p>
       <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
       <p align="center">
+        <a href="https://code-gravity.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
+        </a> &nbsp;
         <a href="https://github.com/kunibillisairam/career-AI" target="_blank">
           <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
         </a>
@@ -258,7 +259,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   <tr><td height="8"></td></tr>
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
-      <b>Data Science & Machine Learning </b><br/>
+      <b>Data Science & Machine Learning Specialization</b><br/>
       <small>Hands-on modeling experience in classification, predictive regression algorithms, and EDA pipelines</small>
     </td>
   </tr>
@@ -271,70 +272,54 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
   </tr>
 </table>
 
----
-## 🎓&nbsp; Achievements & Certifications
+<br>
 
-<table>
-<tr>
-<td>🏆</td><td><b>NPTEL — Python for Data Science</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>Python Programming Certification</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>Web Development Certification</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>SQL Certification</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>GitHub / Developer Certification</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>Hackathon Participation</b></td>
-</tr>
-<tr>
-<td>🏆</td><td><b>Microsoft / NxtWave Certifications</b></td>
-</tr>
+### 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+<table width="100%">
+<tr><td width="30">🏆</td><td><b>NPTEL — Python for Data Science</b></td></tr>
+<tr><td>🏆</td><td><b>Python Programming Certification</b></td></tr>
+<tr><td>🏆</td><td><b>Web Development Certification</b></td></tr>
+<tr><td>🏆</td><td><b>SQL Certification</b></td></tr>
+<tr><td>🏆</td><td><b>GitHub / Developer Certification</b></td></tr>
+<tr><td>🏆</td><td><b>Hackathon Participation</b></td></tr>
+<tr><td>🏆</td><td><b>Microsoft / NxtWave Certifications</b></td></tr>
 </table>
 
-<br>
+---
 
-## 📊&nbsp; GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kunibillisairam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunibillisairam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" width="42%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kunibillisairam&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=8b5cf6&currStreakLabel=6366f1" width="65%"/>
-
-</div>
-
-<br>
+### 📊 GITHUB METRICS & ACTIVITY
 
 <div align="center">
-
-
-## 🤝&nbsp; Let's Build Something
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunibillisairam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunibillisairam/)
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairam.kunibilli@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-8B5CF6?style=for-the-badge&logo=readdotcv&logoColor=white)](#)
-
-<sub>Chennai, Tamil Nadu, India</sub>
-
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kunibillisairam&show_icons=true&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunibillisairam&layout=compact&theme=dark&hide_border=false&border_color=30363d&bg_color=0d1117&text_color=c9d1d9" width="48%" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunibillisairam&theme=dark&hide_border=false&border_color=30363d&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=8b5cf6" width="97%" alt="Streak Stats" />
 </div>
+
+---
 
 ### 📬 CONTACT & CONNECT
 
 <div align="center">
+
   <p>
-    <b>Email:</b> <a href="mailto:kunibillisairam05@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
+    <a href="https://github.com/kunibillisairam">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://www.linkedin.com/in/kunibillisairam/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:sairam.kunibilli@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <p>
+    <b>Email:</b> <a href="mailto:sairam.kunibilli@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
     <b>GitHub:</b> <a href="https://github.com/kunibillisairam">github.com/kunibillisairam</a> &nbsp;|&nbsp; 
     <b>Location:</b> Chennai, Tamil Nadu, India
   </p>
+
 </div>
