@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>KUNIBILLI SAIRAM</h1>
-  <h3>Software Engineer | AI Developer | Data Analyst</h3>
+  <h3>B.E. CSE Student | Software Developer | Data Analyst</h3>
   
   <p><i>Building Predictive Machine Learning Systems, Data Analytics Pipelines & Responsive Web Applications</i></p>
 
@@ -23,7 +23,16 @@
 
 ### 👤 ABOUT ME
 
-Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused on developing end-to-end data analytics solutions, predictive machine learning models, and scalable full-stack web applications with modern UI architecture.
+Computer Science and Engineering (B.E) student based in Chennai, India. Focused on building machine learning solutions, data analytics projects, and scalable full-stack web applications.
+
+---
+
+### 📌 CURRENTLY WORKING ON
+
+- 🚀 Building machine learning and full-stack projects
+- 📊 Exploring data analytics, Power BI and predictive modeling
+- 💻 Practicing DSA and problem solving
+- 🌱 Continuously improving Python, Java and software development skills
 
 ---
 
@@ -34,17 +43,17 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 </td></tr>
-<tr><td><b>Data Science</b></td><td>
+<tr><td><b>Data Science & ML</b></td><td>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-6366F1?style=flat-square)
 
 </td></tr>
@@ -52,7 +61,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Data Viz](https://img.shields.io/badge/Data_Visualization-6366F1?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-6366F1?style=flat-square)
 
 </td></tr>
 <tr><td><b>Web Development</b></td><td>
@@ -61,15 +70,15 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </td></tr>
 <tr><td><b>Backend</b></td><td>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square)
 
 </td></tr>
 <tr><td><b>Databases</b></td><td>
@@ -79,7 +88,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td></tr>
-<tr><td><b>Tools & Cloud</b></td><td>
+<tr><td><b>Tools</b></td><td>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -88,9 +97,9 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </td></tr>
-<tr><td><b>Other Skills</b></td><td>
+<tr><td><b>Other</b></td><td>
 
-![Unity](https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white)
+![Unity 3D](https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 </td></tr>
@@ -111,7 +120,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </a>
       <h4>📊 Customer Retention Prediction System</h4>
       <p><b>ML / Predictive Analytics</b></p>
-      <p>Machine learning classification model predicting customer churn factors and subscription cancellation probabilities with evaluation metrics.</p>
+      <p>A machine-learning classification system for predicting subscription cancellation and customer churn, featuring data preprocessing, feature engineering, model training, and performance evaluation.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -133,7 +142,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </a>
       <h4>🍔 Food Express</h4>
       <p><b>Full-Stack Web Application</b></p>
-      <p>Responsive food ordering platform with dynamic cart state management, menu filters, checkout interface, and fast page rendering.</p>
+      <p>Full-stack food ordering application featuring interactive menu navigation, real-time cart state management, category filters, and a responsive checkout interface.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -157,9 +166,9 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       <a href="https://github.com/kunibillisairam/Global-Superstore-Sales-Analysis" target="_blank">
         <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Superstore Analytics" />
       </a>
-      <h4>📈 Global Superstore Sales Analytics</h4>
+      <h4>📈 Global Superstore Sales & Business Analytics</h4>
       <p><b>Data Analytics / Power BI</b></p>
-      <p>End-to-end retail transaction analysis using Python for data cleaning and interactive Power BI dashboards for regional KPI tracking.</p>
+      <p>End-to-end retail transaction analysis using Python for data cleaning and exploratory analysis, combined with interactive Power BI dashboards for regional KPI tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
@@ -178,7 +187,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </a>
       <h4>🏥 Patient Satisfaction Predictive Analytics</h4>
       <p><b>Machine Learning / Web</b></p>
-      <p>Predictive healthcare analytics model evaluating clinical service factors to forecast patient feedback and highlight quality benchmarks.</p>
+      <p>Predictive healthcare analytics model evaluating clinical service metrics and patient survey feedback to forecast overall satisfaction levels and highlight service benchmarks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -204,7 +213,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </a>
       <h4>💰 Spends & Earns</h4>
       <p><b>Finance Tracker</b></p>
-      <p>Personal financial management application for monitoring income streams, categorizing daily expenditures, and tracking monthly budgets.</p>
+      <p>Personal financial management application for monitoring income streams, categorizing daily expenditures, setting budget thresholds, and visualizing monthly financial trends.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -221,7 +230,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
       </p>
     </td>
     <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
-      <a href="https://code-gravity.vercel.app/" target="_blank">
+      <a href="https://github.com/kunibillisairam/career-AI" target="_blank">
         <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Student Career AI" />
       </a>
       <h4>🤖 Student Career Growth AI Mentor</h4>
@@ -233,6 +242,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
       <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <!-- Note: Live demo URL currently mapped to code-gravity.vercel.app -->
       <p align="center">
         <a href="https://code-gravity.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
@@ -247,34 +257,35 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ---
 
-### 🎓 ACADEMIC & PROFESSIONAL CREDENTIALS
+### 🎓 ACADEMIC INFORMATION & EXPERIENCE
 
 <table width="100%">
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
       <b>Bachelor of Engineering (B.E) — Computer Science and Engineering</b><br/>
-      <small>Chennai, Tamil Nadu, India • Data Structures, Machine Learning & AI tools and Web Engineering</small>
+      <b>Sathyabama Institute of Science and Technology, Chennai</b><br/>
+      <small>Expected Graduation: 2028 • Core Focus: Data Structures, Machine Learning, Database Management & Web Engineering</small>
     </td>
   </tr>
   <tr><td height="8"></td></tr>
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
-      <b>Data Science & Machine Learning Specialization</b><br/>
-      <small>Hands-on modeling experience in classification, predictive regression algorithms, and EDA pipelines</small>
+      <b>Data Science & Machine Learning Experience</b><br/>
+      <small>Practical project modeling in classification, predictive regression algorithms, feature engineering, and EDA pipelines</small>
     </td>
   </tr>
   <tr><td height="8"></td></tr>
   <tr>
     <td bgcolor="#0d1117" style="padding: 14px; border-radius: 6px; border: 1px solid #30363d;">
-      <b>Power BI Data Analytics Certification</b><br/>
-      <small>Designing relational data models, DAX metric calculations, and interactive executive reporting dashboards</small>
+      <b>Power BI Data Analytics Experience</b><br/>
+      <small>Designing relational data models, DAX metric calculations, and interactive reporting dashboards</small>
     </td>
   </tr>
 </table>
 
 <br>
 
-### 🏆 ACHIEVEMENTS & CERTIFICATIONS
+### 🏆 CERTIFICATIONS & ACHIEVEMENTS
 
 <table width="100%">
 <tr><td width="30">🏆</td><td><b>NPTEL — Python for Data Science</b></td></tr>
@@ -288,7 +299,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ---
 
-### 📊 GITHUB METRICS & ACTIVITY
+### 📊 GITHUB ACTIVITY
 
 <div align="center">
   <br/>
@@ -300,7 +311,7 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
 
 ---
 
-### 📬 CONTACT & CONNECT
+### 🤝 LET'S BUILD SOMETHING
 
 <div align="center">
 
@@ -316,10 +327,16 @@ Computer Science and Engineering (B.E) graduate based in Chennai, India. Focused
     </a>
   </p>
 
+</div>
+
+---
+
+### 📬 CONTACT & CONNECT
+
+<div align="center">
   <p>
     <b>Email:</b> <a href="mailto:sairam.kunibilli@gmail.com">sairam.kunibilli@gmail.com</a> &nbsp;|&nbsp; 
     <b>GitHub:</b> <a href="https://github.com/kunibillisairam">github.com/kunibillisairam</a> &nbsp;|&nbsp; 
     <b>Location:</b> Chennai, Tamil Nadu, India
   </p>
-
 </div>
