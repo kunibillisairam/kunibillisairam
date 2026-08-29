@@ -271,7 +271,7 @@ Computer Science and Engineering (B.E) student based in Chennai, India. Focused 
       </p>
       <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
       <p align="center">
-        <a href="https://subscription-cancellation-predictio.vercel.app" target="_blank">
+        <a href="https://bridge2-solve-riyg.vercel.app/" target="_blank">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-00F0FF?style=flat-square&labelColor=0d1117" />
         </a> &nbsp;
         <a href="https://github.com/kunibillisairam/Bridge2Solve" target="_blank">
