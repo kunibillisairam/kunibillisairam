@@ -187,7 +187,7 @@ Computer Science and Engineering (B.E) student based in Chennai, India. Focused 
       </a>
       <h4>🏥 Patient Satisfaction Predictive Analytics</h4>
       <p><b>Machine Learning / Web</b></p>
-      <p>Predictive healthcare analytics model evaluating clinical service metrics and patient survey feedback to forecast overall satisfaction levels and highlight service benchmarks.</p>
+      <p>Predictive healthcare analytics model evaluating clinical service factors to forecast patient feedback and highlight quality benchmarks.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
@@ -251,6 +251,33 @@ Computer Science and Engineering (B.E) student based in Chennai, India. Focused 
           <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
         </a>
       </p>
+    </td>
+  </tr>
+
+  <!-- ROW 4 -->
+  <tr>
+    <td width="50%" valign="top" bgcolor="#0d1117" style="padding: 16px; border-radius: 8px; border: 1px solid #30363d;">
+      <a href="https://github.com/kunibillisairam/Bridge2Solve" target="_blank">
+        <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=600&h=240&q=80" width="100%" style="border-radius: 6px;" alt="Bridge2Solve" />
+      </a>
+      <h4>🤝 Bridge2Solve (ProblemBridge)</h4>
+      <p><b>Full-Stack Web Application</b></p>
+      <p>A multi-role civic collaboration platform connecting Citizens, Universities, and Industry/CSR partners to report, research, and fund community/civic solutions with role-based data isolation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <hr style="border:0; border-top:1px solid #21262d; margin:12px 0;" />
+      <p align="center">
+        <a href="https://github.com/kunibillisairam/Bridge2Solve" target="_blank">
+          <img src="https://img.shields.io/badge/💻_GitHub_Repo-181717?style=flat-square&labelColor=0d1117" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <!-- Symmetrical placeholder for 2-column grid alignment -->
     </td>
   </tr>
 </table>
